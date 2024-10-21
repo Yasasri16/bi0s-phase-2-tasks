@@ -1,0 +1,3 @@
+#The Dragons Riddle
+
+I was given a file.. I downloaded it and saw that the file was executable and the description says that it is a binary file.. SO i used "dogbolt" which is a online decompiler and got the code.. I found a suspicious message in the code.. It definitely seems like base64 encoded text.. So I decoded it and got the link of github.. And when I opened it I found many numbers in there.. I used all kinds of decoding in it.. And the octal one does it's job.. It gave me the link to an image.. I opened it and found the flagg..
