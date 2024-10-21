@@ -1,0 +1,3 @@
+#ssh_brute
+
+I have no idea what ssh brute is.. After googling I understood what it means.. I came toknow that there are many tools for bruting.. The famous ones are hydra and medusa.. I used hydra.. I used the command "hydra -l simba -P /home/yasasri/password_list ssh://4.213.89.50:2222" and got the password as "bubbles".. I log in to simba's computer and there's a file named flag.txt in the home directory.. It contained the flag..
