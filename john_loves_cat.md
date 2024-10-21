@@ -1,0 +1,3 @@
+#john_loves_cat
+
+I was given 5 hashes.. I copied each hash to a file.. Then I used hashid to know what type of hash it is.. Once I got the hash type, I checked the hash mode for it.. Then I used the command "hashcat -m 0 -a 0 <filename> <password_list> " .. Then I used "hashcat --show -m 0 <filename>.. And got the password.. Same thing is done to the 5 hashes and I submitted them according to the format..
