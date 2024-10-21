@@ -1,0 +1,3 @@
+#Overly Obfuscated
+
+So I was given some text which is for like 5-6 pages.. It is clear that the given encoded data is base64.. So I decoded it through terminal.. But it didn't work.. I was quite surprised.. I tried many ways.. They didn't work as well.. One day I tried base64 decoding again and found that it is gettin decoded from the end.. I saw the begininng and thought the idea was wrong.. I kept on decoding for like 16-17 times and finally got the flag..
